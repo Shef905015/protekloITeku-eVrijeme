@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\bin\Debug\protekloITekućeVrijeme.exe.config
+C:\Users\ucenik\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\bin\Debug\protekloITekućeVrijeme.exe
+C:\Users\ucenik\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\bin\Debug\protekloITekućeVrijeme.pdb
+C:\Users\ucenik\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.Form1.resources
+C:\Users\ucenik\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.Properties.Resources.resources
+C:\Users\ucenik\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.exe
+C:\Users\ucenik\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.pdb
